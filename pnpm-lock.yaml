@@ -168,8 +168,8 @@ importers:
         specifier: ^3.1.6
         version: 3.1.6
       '@pagefind/default-ui':
-        specifier: ^1.0.3
-        version: 1.0.3
+        specifier: ^1.1.1
+        version: 1.1.1
       '@types/hast':
         specifier: ^3.0.4
         version: 3.0.4
@@ -1738,8 +1738,8 @@ packages:
     dev: false
     optional: true
 
-  /@pagefind/default-ui@1.0.3:
-    resolution: {integrity: sha512-WieFJXvezyvjZh49I8j7a7Kz3LsXYY2Uep3IWvG5NG05mmiurURXjXc+KyrpIp/iAycSnjrC1TDJ8CdES/ee3A==}
+  /@pagefind/default-ui@1.1.1:
+    resolution: {integrity: sha512-ZM0zDatWDnac/VGHhQCiM7UgA4ca8jpjA+VfuTJyHJBaxGqZMQnm4WoTz9E0KFcue1Bh9kxpu7uWFZfwpZZk0A==}
     dev: false
 
   /@pagefind/linux-arm64@1.0.3:
