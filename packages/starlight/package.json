@@ -180,7 +180,7 @@
     "@types/node": "^18.16.19",
     "@vitest/coverage-v8": "^1.6.0",
     "astro": "^4.15.3",
-    "vitest": "^1.6.0",
+    "vitest": "^3.0.9",
     "linkedom": "^0.18.4"
   },
   "dependencies": {
