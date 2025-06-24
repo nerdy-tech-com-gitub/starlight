@@ -207,7 +207,7 @@
     "hast-util-select": "^6.0.2",
     "hast-util-to-string": "^3.0.0",
     "hastscript": "^9.0.0",
-    "i18next": "^23.11.5",
+    "i18next": "^25.2.1",
     "js-yaml": "^4.1.0",
     "klona": "^2.0.6",
     "mdast-util-directive": "^3.0.0",
