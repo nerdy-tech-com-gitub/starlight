@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@docsearch/css": "^3.6.0",
-    "@docsearch/js": "^3.6.0"
+    "@docsearch/js": "^4.1.0"
   },
   "devDependencies": {
     "@astrojs/starlight": "workspace:*"
