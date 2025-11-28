@@ -19,7 +19,7 @@
   "devDependencies": {
     "@astrojs/markdoc": "^0.13.3",
     "@astrojs/starlight": "workspace:*",
-    "vitest": "^3.0.5"
+    "vitest": "^4.0.7"
   },
   "peerDependencies": {
     "@astrojs/markdoc": ">=0.12.1",
